@@ -6,7 +6,7 @@ gem 'octokit', '~> 2.0'
 
 source ""
 gem 'awesome_print'
- 
+
 group :development do
   gem "pry"
 end
